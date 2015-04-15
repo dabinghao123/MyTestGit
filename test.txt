@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 I'm huangbing  clone  myccc
 asdfjsladkfjlsadjf
+=======
+I'm huangbing  clone  mycccdddddddd
+
+ddddddfsadfsdf
+>>>>>>> 612d018c75ae50f6fca7346135259f1e7a5dae1d
